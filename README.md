@@ -1,6 +1,4 @@
-# MERN Stack App (No MongoDB)
-
-A simple MERN stack project that stores data in-memory and displays it on the frontend.
+# MERN Stack App (Registration page)
 
 ## 🖥️ Tech Stack
 - React (Frontend)
@@ -8,9 +6,10 @@ A simple MERN stack project that stores data in-memory and displays it on the fr
 - Axios (HTTP Client)
 
 ## 🚀 How to Run
+1. Open terminal
+2. cd Backend
+3. node server.js
+4. Open second terminal (do not terminate the other terminal)
+5. cd client
+6. npm run dev
 
-### Backend
-```bash
-cd backend
-npm install
-node server.js
